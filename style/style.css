@@ -166,6 +166,81 @@ body {
     margin-top: 20px;
 }
 
-
 /* Watch Section Style end*/
+
+/* Footer Section Start */
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #151414;
+    color: #fff;
+    gap: 120px;
+    height: 500px;
+    padding: 50px;
+    padding-bottom: 0;
+}
+
+.footer-title {
+    color: #F8F8F8;
+    font-size: 45px
+}
+
+.footer-description {
+    color: #FFF;
+    font-size: 16px;
+    line-height: 25px;
+    margin-top: 15px;
+}
+
+.footer-item {
+    width: 50%;
+    padding: 30px;
+}
+
+.footer-item input{
+    display: block;
+}
+
+.footer-item input[type="text"]{
+    padding: 10px 20px;
+    background-color: #151414;
+    color: #fff;
+    border: 1px solid;
+    border-radius: 5px;
+    margin: 20px 0px;
+}
+
+.social {
+    margin-top: 25px;
+}
+
+.social a img {
+    padding-right: 10px;
+}
+
+.sub-btn {
+    border-radius: 8px;
+    background: #FFF;
+    padding: 12px 20px;
+    color: #F15B22;
+    font-size: 16px;
+    font-weight: 700;
+
+}
+
+/* Footer Section End */
+
+
+
+
+
+
+
+
+
+
+
+
 
