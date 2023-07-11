@@ -130,13 +130,42 @@ body {
 }
 
 
-
-
-
-
-
-
-
 /* My Plans Section Style End */
 
+/* Watch Section Style Start */
+.watch-section {
+    padding: 61px 112px;
+    margin: 0 120px;
+}
+
+.watch-details {
+    background-image: url('../images/gradient2.png'), url('../images/watch.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 300px;
+    border-radius: 8px;
+    padding: 35px;
+    
+}
+
+.watch-details-title {
+    color: #FFF;
+    font-size: 35px;
+    width: 50%;
+    margin-top: 20px;
+}
+
+.call-now-btn {
+    border-radius: 5px;
+    background: #FFF;
+    padding: 10px 15px;
+    border: 0;
+    text-align: center;
+    color: #F15B22;
+    margin-top: 20px;
+}
+
+
+/* Watch Section Style end*/
 
